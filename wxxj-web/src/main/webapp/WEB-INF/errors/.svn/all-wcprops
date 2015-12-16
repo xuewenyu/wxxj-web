@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wxxj/!svn/ver/33/wxxj-web/WebContent/WEB-INF/errors
+END
+500.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wxxj/!svn/ver/33/wxxj-web/WebContent/WEB-INF/errors/500.jsp
+END
+403.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wxxj/!svn/ver/33/wxxj-web/WebContent/WEB-INF/errors/403.jsp
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wxxj/!svn/ver/33/wxxj-web/WebContent/WEB-INF/errors/404.jsp
+END

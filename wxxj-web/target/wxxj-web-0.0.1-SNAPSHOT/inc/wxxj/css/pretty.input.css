@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+
+.wxxj-pi-container {
+  position: relative;
+}
+
+.wxxj-pi-container .wxxj-pi-icon {
+  position: absolute;
+  display: block;
+  height: 100%;
+  width: 40px;
+  top: 0px;
+  color: #999;
+  text-align: center;
+  z-index: 3; 
+  left: 0px;
+}
+
+.wxxj-pi-container input[type="date"].input-lg, 
+.wxxj-pi-container input[type="time"].input-lg, 
+.wxxj-pi-container input[type="datetime-local"].input-lg, 
+.wxxj-pi-container input[type="month"].input-lg,
+div.wxxj-input-group input[type="date"], 
+div.wxxj-input-group input[type="time"], 
+div.wxxj-input-group input[type="datetime-local"],
+div.wxxj-input-group input[type="month"] {
+    line-height : 1.3333333 !important; 
+}
+
+.wxxj-pi-container input[required], div.wxxj-input-group input[required] {
+  
+}
+
+.wxxj-pi-container input:focus ~.wxxj-pi-icon, div.wxxj-input-group input:focus ~.wxxj-pi-icon {
+  color: #337ab7;
+}
+
+.wxxj-pi-container .wxxj-pi-clearbutton {
+  position: absolute;
+  display: block;
+  height: 100%;
+  width: 40px;
+  top: 0px;
+  color: #999;
+  text-align: center;
+  z-index: 3;
+  right: 0px;
+  cursor: pointer;
+}

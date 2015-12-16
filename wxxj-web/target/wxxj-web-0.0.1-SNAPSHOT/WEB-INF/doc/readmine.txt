@@ -1,0 +1,23 @@
+验证框架：jqueryvalidate
+
+登陆界面  prettyinput.js
+
+弹出框:http://fabien-d.github.io/alertify.js/0.4.0rc1/ 
+
+
+遮罩层：http://aui.github.io/artDialog/
+
+
+日历控件:待定
+
+验证码:kaptcha
+
+table页: 待定
+
+权限框架:shiro
+
+整体框架:jfinal
+
+缓存框架:谷歌cache
+
+图标:fontawesome
